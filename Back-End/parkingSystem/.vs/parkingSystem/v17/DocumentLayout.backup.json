@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C129BE9B-6951-4DA7-88C5-BB654F6E7B3E}|parkingSystem\\parkingSystem.csproj|c:\\users\\mutazasha\\desktop\\dot net core\\parkingsystem\\parkingsystem\\controllers\\bookingscontrolle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C129BE9B-6951-4DA7-88C5-BB654F6E7B3E}|parkingSystem\\parkingSystem.csproj|solutionrelative:parkingsystem\\controllers\\bookingscontrolle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09987C55-953A-472E-9D63-82C29C090841}|BLL\\BLL.csproj|c:\\users\\mutazasha\\desktop\\dot net core\\parkingsystem\\bll\\bookingservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09987C55-953A-472E-9D63-82C29C090841}|BLL\\BLL.csproj|solutionrelative:bll\\bookingservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09987C55-953A-472E-9D63-82C29C090841}|BLL\\BLL.csproj|c:\\users\\mutazasha\\desktop\\dot net core\\parkingsystem\\bll\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09987C55-953A-472E-9D63-82C29C090841}|BLL\\BLL.csproj|solutionrelative:bll\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A0F9F3-602D-4C19-B4CA-D336CCB437E4}|Models\\Models.csproj|c:\\users\\mutazasha\\desktop\\dot net core\\parkingsystem\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A0F9F3-602D-4C19-B4CA-D336CCB437E4}|Models\\Models.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03D1460-F6D2-4625-BF3C-92773482556E}|DAL\\DAL.csproj|c:\\users\\mutazasha\\desktop\\dot net core\\parkingsystem\\dal\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03D1460-F6D2-4625-BF3C-92773482556E}|DAL\\DAL.csproj|solutionrelative:dal\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03D1460-F6D2-4625-BF3C-92773482556E}|DAL\\DAL.csproj|c:\\users\\mutazasha\\desktop\\dot net core\\parkingsystem\\dal\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03D1460-F6D2-4625-BF3C-92773482556E}|DAL\\DAL.csproj|solutionrelative:dal\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09987C55-953A-472E-9D63-82C29C090841}|BLL\\BLL.csproj|c:\\users\\mutazasha\\desktop\\dot net core\\parkingsystem\\bll\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09987C55-953A-472E-9D63-82C29C090841}|BLL\\BLL.csproj|solutionrelative:bll\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09987C55-953A-472E-9D63-82C29C090841}|BLL\\BLL.csproj|c:\\users\\mutazasha\\desktop\\dot net core\\parkingsystem\\bll\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09987C55-953A-472E-9D63-82C29C090841}|BLL\\BLL.csproj|solutionrelative:bll\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03D1460-F6D2-4625-BF3C-92773482556E}|DAL\\DAL.csproj|c:\\users\\mutazasha\\desktop\\dot net core\\parkingsystem\\dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03D1460-F6D2-4625-BF3C-92773482556E}|DAL\\DAL.csproj|solutionrelative:dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C129BE9B-6951-4DA7-88C5-BB654F6E7B3E}|parkingSystem\\parkingSystem.csproj|c:\\users\\mutazasha\\desktop\\dot net core\\parkingsystem\\parkingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C129BE9B-6951-4DA7-88C5-BB654F6E7B3E}|parkingSystem\\parkingSystem.csproj|solutionrelative:parkingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C129BE9B-6951-4DA7-88C5-BB654F6E7B3E}|parkingSystem\\parkingSystem.csproj|c:\\users\\mutazasha\\desktop\\dot net core\\parkingsystem\\parkingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C129BE9B-6951-4DA7-88C5-BB654F6E7B3E}|parkingSystem\\parkingSystem.csproj|solutionrelative:parkingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03D1460-F6D2-4625-BF3C-92773482556E}|DAL\\DAL.csproj|c:\\users\\mutazasha\\desktop\\dot net core\\parkingsystem\\dal\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03D1460-F6D2-4625-BF3C-92773482556E}|DAL\\DAL.csproj|solutionrelative:dal\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A0F9F3-602D-4C19-B4CA-D336CCB437E4}|Models\\Models.csproj|c:\\users\\mutazasha\\desktop\\dot net core\\parkingsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A0F9F3-602D-4C19-B4CA-D336CCB437E4}|Models\\Models.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C129BE9B-6951-4DA7-88C5-BB654F6E7B3E}|parkingSystem\\parkingSystem.csproj|c:\\users\\mutazasha\\desktop\\dot net core\\parkingsystem\\parkingsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C129BE9B-6951-4DA7-88C5-BB654F6E7B3E}|parkingSystem\\parkingSystem.csproj|solutionrelative:parkingsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C129BE9B-6951-4DA7-88C5-BB654F6E7B3E}|parkingSystem\\parkingSystem.csproj|c:\\users\\mutazasha\\desktop\\dot net core\\parkingsystem\\parkingsystem\\parkingsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C129BE9B-6951-4DA7-88C5-BB654F6E7B3E}|parkingSystem\\parkingSystem.csproj|solutionrelative:parkingsystem\\parkingsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C129BE9B-6951-4DA7-88C5-BB654F6E7B3E}|parkingSystem\\parkingSystem.csproj|c:\\users\\mutazasha\\desktop\\dot net core\\parkingsystem\\parkingsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C129BE9B-6951-4DA7-88C5-BB654F6E7B3E}|parkingSystem\\parkingSystem.csproj|solutionrelative:parkingsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C129BE9B-6951-4DA7-88C5-BB654F6E7B3E}|parkingSystem\\parkingSystem.csproj|c:\\users\\mutazasha\\desktop\\dot net core\\parkingsystem\\parkingsystem\\parkingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C129BE9B-6951-4DA7-88C5-BB654F6E7B3E}|parkingSystem\\parkingSystem.csproj|solutionrelative:parkingsystem\\parkingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:20:26.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\BLL\\AuthService.cs",
+              "RelativeDocumentMoniker": "BLL\\AuthService.cs",
+              "ToolTip": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\BLL\\AuthService.cs",
+              "RelativeToolTip": "BLL\\AuthService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T07:58:17.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:50:03.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\DAL\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\DAL\\BookingRepository.cs",
+              "RelativeToolTip": "DAL\\BookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:03:33.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\BLL\\IAuthService.cs",
+              "RelativeDocumentMoniker": "BLL\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\BLL\\IAuthService.cs",
+              "RelativeToolTip": "BLL\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T09:37:53.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "parkingSystem",
+              "DocumentMoniker": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\parkingSystem\\parkingSystem.csproj",
+              "RelativeDocumentMoniker": "parkingSystem\\parkingSystem.csproj",
+              "ToolTip": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\parkingSystem\\parkingSystem.csproj",
+              "RelativeToolTip": "parkingSystem\\parkingSystem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T10:51:40.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\parkingSystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "parkingSystem\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\parkingSystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "parkingSystem\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T10:51:44.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingsControlle.cs",
+              "DocumentMoniker": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\parkingSystem\\Controllers\\BookingsControlle.cs",
+              "RelativeDocumentMoniker": "parkingSystem\\Controllers\\BookingsControlle.cs",
+              "ToolTip": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\parkingSystem\\Controllers\\BookingsControlle.cs",
+              "RelativeToolTip": "parkingSystem\\Controllers\\BookingsControlle.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAC4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:55:03.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingService .cs",
+              "DocumentMoniker": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\BLL\\BookingService .cs",
+              "RelativeDocumentMoniker": "BLL\\BookingService .cs",
+              "ToolTip": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\BLL\\BookingService .cs",
+              "RelativeToolTip": "BLL\\BookingService .cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:03:01.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\BLL\\IBookingService.cs",
+              "RelativeDocumentMoniker": "BLL\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\BLL\\IBookingService.cs",
+              "RelativeToolTip": "BLL\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:21:04.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\DAL\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\IBookingRepository.cs",
+              "ToolTip": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\DAL\\IBookingRepository.cs",
+              "RelativeToolTip": "DAL\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:23:36.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\parkingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "parkingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\parkingSystem\\Program.cs",
+              "RelativeToolTip": "parkingSystem\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwCAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:56:19.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\DAL\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\DAL\\UserRepository.cs",
+              "RelativeToolTip": "DAL\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:47:15.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\DAL\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\DAL\\IUserRepository.cs",
+              "RelativeToolTip": "DAL\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:39:47.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\parkingSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "parkingSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\parkingSystem\\appsettings.json",
+              "RelativeToolTip": "parkingSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-11T07:31:39.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\parkingSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "parkingSystem\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\parkingSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "parkingSystem\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAArwCEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T09:34:47.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "parkingSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\parkingSystem\\parkingSystem.csproj",
+              "RelativeDocumentMoniker": "parkingSystem\\parkingSystem.csproj",
+              "ToolTip": "C:\\Users\\MutazAsha\\Desktop\\Dot NET Core\\parkingSystem\\parkingSystem\\parkingSystem.csproj",
+              "RelativeToolTip": "parkingSystem\\parkingSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T07:11:41.517Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
